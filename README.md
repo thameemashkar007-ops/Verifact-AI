@@ -1,4 +1,4 @@
-# VeriFact AI
+# Verifact AI
 
 > An Explainable AI Platform for Misinformation Detection and Claim Verification
 
